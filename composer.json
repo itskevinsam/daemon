@@ -1,0 +1,13 @@
+{
+    "name": "itskevinsam/daemon",
+    "description": "Sample Daemon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Sam",
+            "email": "kevin.js@pitsolutions.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
