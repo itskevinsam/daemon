@@ -8,6 +8,9 @@
             "email": "kevin.js@pitsolutions.com"
         }
     ],
+    "autoload": {
+      "files": ["GreetUser.php"]  
+    },
     "minimum-stability": "dev",
     "require": {}
 }
